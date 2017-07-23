@@ -1,6 +1,6 @@
 package middleware
 
-import "github.com/labstack/echo"
+import "github.com/alaingilbert/echo"
 
 type (
 	// MethodOverrideConfig defines the config for MethodOverride middleware.

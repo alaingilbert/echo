@@ -8,7 +8,7 @@ import (
 
 	"net/url"
 
-	"github.com/labstack/echo"
+	"github.com/alaingilbert/echo"
 	"github.com/stretchr/testify/assert"
 )
 
